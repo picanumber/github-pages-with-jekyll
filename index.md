@@ -1,5 +1,11 @@
 ---
-title: "Welcome to my blog"
+title: "Project summaries & notes"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# Section 1
+
+information
+
+## Section 2
+
+information
